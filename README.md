@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/SlateFoundation/slate-cbl.png?label=ready&title=Ready)](https://waffle.io/SlateFoundation/slate-cbl)
 slate-cbl
 =========
 Provides extensions for Slate to implement Competency-Based Learning
